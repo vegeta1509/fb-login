@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+
+body{
+  background: url(imag.png)no-repeat;
+    margin: auto;
+  display: block;
+  background-origin: content-box;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-attachment: fixed;
+}
+h1 {
+    color: grey;
+    font-family: verdana;
+    font-size: 400%;
+}
+
+h2{
+    padding: 4px;
+  font-size: 30px;
+  margin-left: 20px;
+  display: inline-block;
+}
+
+#fb-button{
+  margin-left:680px;
+}
